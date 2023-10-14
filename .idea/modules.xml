@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/AsalSayi/AsalSayi.iml" filepath="$PROJECT_DIR$/AsalSayi/AsalSayi.iml" />
       <module fileurl="file://$PROJECT_DIR$/FlightTicket/FlightTicket.iml" filepath="$PROJECT_DIR$/FlightTicket/FlightTicket.iml" />
       <module fileurl="file://$PROJECT_DIR$/KitleIndeks/KitleIndeks.iml" filepath="$PROJECT_DIR$/KitleIndeks/KitleIndeks.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Microsoft Back End Web Geliştirme Bootcamp.iml" filepath="$PROJECT_DIR$/.idea/Microsoft Back End Web Geliştirme Bootcamp.iml" />
